@@ -5,7 +5,7 @@
 NAME = "ZenPacks.chitambira.mgeUPS"
 VERSION = "1.1"
 AUTHOR = "Benny Chitambira"
-LICENSE = ""
+LICENSE = "GPLv2"
 NAMESPACE_PACKAGES = ['ZenPacks', 'ZenPacks.chitambira']
 PACKAGES = ['ZenPacks', 'ZenPacks.chitambira', 'ZenPacks.chitambira.mgeUPS']
 INSTALL_REQUIRES = []
